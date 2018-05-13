@@ -21,6 +21,8 @@ In this game you have a Player and Enemies (Rocks). The goal of the player is to
 
 ## Play the Game:
 
+http://htmlpreview.github.io/?https://github.com/KasiaCha/project-arcade-game/blob/master/index.html
+
 ## Dependencies
 
 This project uses: Google fonts https://fonts.google.com
