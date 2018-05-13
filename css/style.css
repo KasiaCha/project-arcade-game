@@ -1,0 +1,10 @@
+.container {
+    text-align: center;
+    background: url(http://helensedwick.com/wordpress/wp-content/uploads/2015/07/dreamstime_m_37276385-falling-rocks.jpg);
+}
+
+.title {
+    font-size: 35px;
+    font-family: 'Faster One';
+    color: yellow;
+}
